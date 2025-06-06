@@ -1,1 +1,3 @@
-# top-rockpaperscissors
+PROJECT START (2025-06-06 20:23:37):
+
+Well, here we go again. I'm not embarrassed to admit that the JavaScript pages so far have given me quiiiiite some trouble. However, the feeling when something finally clicks - and then, miraculously, somehow works - has been the most satisfying feeling so far. I'm planning on really, really taking my time with this project to try and understand what each and every line of code is really doing. I know I'm going to be facing some real failures before I hit the successes, but I feel alright with that. If I can really get this rock paper scissors project to work, I'm going to be really proud of myself. :)
