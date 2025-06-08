@@ -87,47 +87,47 @@ function playGame() {
     // round 1 //
     let result = ifTieResult();
     if (result === "humanWin") {
-        alert(`...and the humans clinch this 5-round extravaganza! Congratulations, you're the winner!`);
+        alert(`...and in unbelievable scenes, the humans clinch this 5-round extravaganza in straight wins! Congratulations, this is extremely statistically rare and impressive! Forget the water, this calls for a cold, crisp Dr. Pepper!`);
         return;
     } else if (result === "computerWin") {
-        alert(`...and they told us not to worry about the robot revolution. I'm sorry, but the computer's have taken the victory. Better luck next time!`);
+        alert(`...and they told us not to worry about the robot revolution. Unfortunately, they computer has well and truly smashed you, with 5 straight wins in a row to claim the victory. Drown your sorrows in a shameful glass of milk, and get back out there!`);
         return;
     }
     // round 2 //
     result = ifTieResult();
     if (result === "humanWin") {
-        alert(`...and the humans clinch this 5-round extravaganza! Congratulations, you're the winner!`);
+        alert(`...and in unbelievable scenes, the humans clinch this 5-round extravaganza in straight wins! Congratulations, this is extremely statistically rare and impressive! Forget the water, this calls for a cold, crisp Dr. Pepper!`);
         return;
     } else if (result === "computerWin") {
-        alert(`...and they told us not to worry about the robot revolution. I'm sorry, but the computer's have taken the victory. Better luck next time!`);
+        alert(`...and they told us not to worry about the robot revolution. Unfortunately, they computer has well and truly smashed you, with 5 straight wins in a row to claim the victory. Drown your sorrows in a shameful glass of milk, and get back out there!`);
         return;
     }
     // round 3 //
     result = ifTieResult();
     if (result === "humanWin") {
-        alert(`...and the humans clinch this 5-round extravaganza! Congratulations, you're the winner!`);
+        alert(`...and in unbelievable scenes, the humans clinch this 5-round extravaganza in straight wins! Congratulations, this is extremely statistically rare and impressive! Forget the water, this calls for a cold, crisp Dr. Pepper!`);
         return;
     } else if (result === "computerWin") {
-        alert(`...and they told us not to worry about the robot revolution. I'm sorry, but the computer's have taken the victory. Better luck next time!`);
+        alert(`...and they told us not to worry about the robot revolution. Unfortunately, they computer has well and truly smashed you, with 5 straight wins in a row to claim the victory. Drown your sorrows in a shameful glass of milk, and get back out there!`);
         return;
     }
     // round 4 //
     result = ifTieResult();
     if (result === "humanWin") {
-        alert(`...and the humans clinch this 5-round extravaganza! Congratulations, you're the winner!`);
+        alert(`...and in unbelievable scenes, the humans clinch this 5-round extravaganza in straight wins! Congratulations, this is extremely statistically rare and impressive! Forget the water, this calls for a cold, crisp Dr. Pepper!`);
         return;
     } else if (result === "computerWin") {
-        alert(`...and they told us not to worry about the robot revolution. I'm sorry, but the computer's have taken the victory. Better luck next time!`);
+        alert(`...and they told us not to worry about the robot revolution. Unfortunately, they computer has well and truly smashed you, with 5 straight wins in a row to claim the victory. Drown your sorrows in a shameful glass of milk, and get back out there!`);
         return;
     }
     // round 5 - created a function here to ensure that only these victory messages display in event of a non-majority-win and not both //
     result = ifTieResult();
     function finalRound() {
     if (result === "humanWin") {
-        alert(`...and the humans clinch this 5-round extravaganza! Congratulations, you're the winner!`);
+        alert(`...and in unbelievable scenes, the humans clinch this 5-round extravaganza in straight wins! Congratulations, this is extremely statistically rare and impressive! Forget the water, this calls for a cold, crisp Dr. Pepper!`);
         return;
     } else if (result === "computerWin") {
-        alert(`...and they told us not to worry about the robot revolution. I'm sorry, but the computer's have taken the victory. Better luck next time!`);
+        alert(`...and they told us not to worry about the robot revolution. Unfortunately, they computer has well and truly smashed you, with 5 straight wins in a row to claim the victory. Drown your sorrows in a shameful glass of milk, and get back out there!`);
         return;
     }
     }
