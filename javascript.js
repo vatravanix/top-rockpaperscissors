@@ -150,3 +150,9 @@ function playGame() {
 // this is where the playGame function is called to start the game //
 
 playGame();
+
+if (confirm("Phew, that was fun! Want to play again?") == true) {
+    location.reload();
+} else {
+    alert("Oh, well, right. OK. I understand. If, uh, if you change your mind, just refresh the page! Bye!")
+}
