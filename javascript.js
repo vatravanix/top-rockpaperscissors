@@ -131,3 +131,7 @@ function playGame() {
         alert(`After 5 long, bloody rounds, we have a winner by majority! Drumroll please... ah, forget about that, just get to the bunker, quick! The robots have won, with a final score of ${computerScore} to ${humanScore}! The robot uprising is upon us!`);
     }
 }
+
+// this is where the playGame function is called to start the game //
+
+playGame();
