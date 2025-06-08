@@ -24,3 +24,8 @@ function getHumanChoice() {
     }
 }
 
+// here be player / computer score variables //
+
+let humanScore = 0;
+let computerScore = 0;
+
